@@ -37,7 +37,7 @@ Status: The next season begins in 2019.
 
 ---- WORKING EXPLANATION ----
 
-Web Scraping dane using : Scrapy
+Web Scraping done using : Scrapy
 Email sent through : smtplib library functionality
 Database created using : mysql connect and pymysql 
 
